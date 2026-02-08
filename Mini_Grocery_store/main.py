@@ -3,8 +3,8 @@
  Menu
  1 Add item
  2 view items
- buy items
- Exit
+ 3 buy items
+ 4 Exit
  Requirenment 
  Take item name ,price,and quantity from the user
  store item in a dictionary 
